@@ -1,7 +1,7 @@
-<img align="right" width="150" height="150" hspace="25" vspace="25" src="docs/images/logos/logo_pole_surfaces_planetaires.jpg" alt="Logo du pole des surfaces planétaires">
-
 Pole Surfaces Planétaires
 =========================
+
+<img align="right" width="150" height="150" hspace="5" src="docs/images/logos/logo_pole_surfaces_planetaires.jpg" alt="Logo du pole des surfaces planétaires">
 
 Ce dépôt contient l'ensemble des fichiers sources permettant de générer le guide du [pole surfaces planétaires](https://pole-surfaces-planetaires.github.io).
 Toutes remarques, suggestions ou modifications sont les bienvenues et vivement encouragées.
