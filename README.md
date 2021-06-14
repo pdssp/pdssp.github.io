@@ -3,6 +3,9 @@ Pole Surfaces Planétaires
 
 <img align="right" width="150" height="150" hspace="20" src="docs/images/logos/logo_pole_surfaces_planetaires.jpg" alt="Logo du pole des surfaces planétaires">
 
+[![GH actions status](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/actions/workflows/test-and-deploy.yml/badge.svg)](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/actions/workflows/test-and-deploy.yml)
+[![Website badge](https://img.shields.io/badge/website-pole--surfaces--planetaires.github.io-blue?logo=html5&logoColor=white)](https://pole-surfaces-planetaires.github.io)
+
 Ce dépôt contient l'ensemble des fichiers sources permettant de générer le guide du [pole surfaces planétaires](https://pole-surfaces-planetaires.github.io).
 Toutes remarques, suggestions ou modifications sont les bienvenues et vivement encouragées.
 N'hésitez pas à consulter [cette page](CONTRIBUTING.md) pour savoir comment participer à sa rédaction.
