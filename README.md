@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" hspace="25" vspace="25" src="images/logos/logo_pole_surfaces_planetaires.jpg" alt="Logo du pole des surfaces planétaires">
+<img align="right" width="150" height="150" hspace="25" vspace="25" src="docs/images/logos/logo_pole_surfaces_planetaires.jpg" alt="Logo du pole des surfaces planétaires">
 
 Pole Surfaces Planétaires
 =========================
