@@ -8,8 +8,7 @@ Format et style
 ---------------
 
 Les articles de ce guide sont rédigés principalement en français en suivant une syntaxe de type [markdown](https://fr.wikipedia.org/wiki/Markdown) (`.md`) et regroupé dans le dossier `docs/`.
-Si vous n'êtes pas familier de ce language, vous pouvez consulter [ces quelques exemples](https://fr.wikipedia.org/wiki/Markdown#Quelques_exemples)
-pour débuter facilement. Le markdown est le language natif de Github pour la soumission de modification depuis leur interface web.
+Si vous n'êtes pas familier de ce language, vous pouvez consulter [ces quelques exemples](https://jupyterbook.org/reference/cheatsheet.html) pour débuter facilement. Le markdown est le language natif de Github pour la soumission de modification depuis leur interface web.
 N'hésitez pas à utiliser le bouton <kbd>preview</kbd> pour visualiser vos résultats.
 
 Si le contenu de votre article s'y porte, vous pouvez le rédiger directement en [jupyter-notebooks](https://jupyterbook.org/file-types/notebooks.html) (`.ipynb`).
@@ -46,8 +45,10 @@ Si vous voulez visualiser le rendu de votre article avant de le soumettre, vous 
 pip install -r requirements.txt
 ```
 
-Puis exécuter la commande:
+Puis exécuter la commande suivante pour compiler votre article:
 
 ```bash
 jupyter-book build docs/
 ```
+
+Le résultat est disponible dans le dossier `_build/html/` et peut être visualiser dans votre navigateur web.

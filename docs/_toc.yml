@@ -1,19 +1,12 @@
 format: jb-book
 root: index
 
-parts:
-  - caption: 'Groupe 1: Cartographie de la communauté'
-    chapters:
-    - file: 1-carto/intro
-
-  - caption: 'Groupe 2: Mise en place des standards OGC - WMS/WCS'
-    chapters:
-    - file: 2-ogc/intro
-
-  - caption: 'Groupe 3: DOI, NASA/ADS et archives'
-    chapters:
-    - file: 3-archive/intro
-
-  - caption: 'Groupe 4: Données hyperspectrales'
-    chapters:
-    - file: 4-hyperspectrale/intro
+chapters:
+- file: 1-carto/intro
+- file: 2-ogc/intro
+- file: 3-archive/intro
+- file: 4-spectro/intro
+- file: membres
+  title: Membres du Pole
+- file: historique
+  title: Historique des réunions

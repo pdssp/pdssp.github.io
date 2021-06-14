@@ -1,16 +1,8 @@
-# Welcome to your Jupyter Book
+(group-carto)=
+Groupe 1 : Cartographie de la communauté
+=======================================
+_Animateur : F. Schmidt_
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+* __But 1__ : maintenir une cartographie de la communauté afin d’identifier les échanges de flux entre les différents laboratoires de la communauté.
+* __But 2__ : Référencer les codes existants dans le but de contribuer au code au lieu de réinventer la roue.
+* __But 3__ : Référencer les compétences (standards, outils, sciences…) pour obtenir de l’aide.

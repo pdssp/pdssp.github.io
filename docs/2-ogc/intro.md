@@ -1,16 +1,7 @@
-# Welcome to your Jupyter Book
+(group-ogc)=
+Groupe 2 : Mise en place des standards OGC - WMS/WCS
+=======================================
+_Animateur : J.C. Malapert_
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+* __But 1__ : Formation aux standards OGC
+* __But 2__ : Mise en application sur des données dans les labos (implicite : gdal, mapserver, …)
