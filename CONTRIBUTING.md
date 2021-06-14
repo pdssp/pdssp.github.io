@@ -21,10 +21,11 @@ Soumettre un changement, proposer une modification ou un ajout
 --------------------------------------------------------------
 
 1. Faite un _fork_ de ce dépôt pour l'ajouter à votre espace Github en cliquant [ici](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/fork).
-2. Ajoutez et modifier un article à la fois, directement en ligne sur Github ou localement (cf. section ci-dessous). Si c'est votre première contribution pensez à ajouter votre nom dans la liste des `AUTHORS.md`.
-3. Soumettez une _Pull Request_ avec vos ajouts sur le projet.
-4. Les modifications seront validées manuellement par l'un des membres du pole.
-5. Le guide en ligne sera mis à jour automatiquement avec votre nouvel article :rocket:
+2. Vous pouvez ajoutez un (ou plusieurs) article directement depuis Github ou en copiant le projet localement (cf. section ci-dessous).
+3. Une fois rédigé, pensez à ajouter votre article dans la table des manières (`docs/_toc.yml`) et si c'est votre première contribution, merci de rajouter votre nom et affiliation dans la liste le fichier `AUTHORS.md`.
+4. Soumettez une _Pull Request_ avec vos ajouts sur le projet.
+5. Les modifications seront validées manuellement par l'un des membres du pole.
+6. Le guide en ligne sera mis à jour automatiquement avec votre nouvel article :rocket:
 
 
 Modifier ce guide localement
@@ -39,7 +40,7 @@ cd pole-surfaces-planetaires.github.io
 
 Faites vos modifications dans le dossier `docs/`.
 
-Si vous voulez visualiser le rendu de votre article avant de le soumettre, vous pouvez installer les dépendances du projet:
+Si vous voulez visualiser le rendu de votre article avant de le soumettre, vous devez installer les dépendances du projet:
 
 ```bash
 pip install -r requirements.txt
@@ -48,5 +49,5 @@ pip install -r requirements.txt
 Puis exécuter la commande:
 
 ```bash
-jupyter-book build docs/mon-article.md
+jupyter-book build docs/
 ```

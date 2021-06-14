@@ -1,0 +1,39 @@
+title: Guide des outils pour l'analyse des surfaces planétaires
+author: le Pole Surfaces Planétaires du CNES / INSU
+
+logo: images/logos/logo_pole_surfaces_planetaires.jpg
+copyright: "2021 - Pole de Surfaces Planétaires"
+
+exclude_patterns:
+  - _build
+  - Thumbs.db
+  - .DS_Store
+  - "**.ipynb_checkpoints"
+  - venv/
+
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: force
+
+repository:
+  url: https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io
+  path_to_book: 'docs'
+  branch: main
+
+html:
+  favicon: images/logos/favicon.ico
+  use_edit_page_button: true
+  use_issues_button: true
+  use_repository_button: true
+  extra_navbar: ''
+  extra_footer: 'Ce guide est distribué sous <a href="https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/License.md" target="_blank">licence ouverte 2.0</a>.'
+  home_page_in_navbar: false
+
+sphinx:
+  config:
+    language: "fr"
+    linkcheck_anchors: false
+    html_show_copyright: false
+    html_last_updated_fmt: "%d %b %Y"
+    latex_toplevel_sectioning: 'chapter'
