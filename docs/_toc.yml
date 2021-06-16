@@ -2,11 +2,12 @@ format: jb-book
 root: index
 
 chapters:
-- file: 1-carto/intro
-- file: 2-ogc/intro
-- file: 3-archive/intro
-- file: 4-spectro/intro
-- file: membres
-  title: Membres du Pole
-- file: historique
-  title: Historique des réunions
+  - file: 1-carto/intro
+  - file: 2-ogc/intro
+  - file: 3-vo/intro
+  - file: 4-archive/intro
+  - file: 5-spectro/intro
+  - file: membres
+    title: Membres du Pole
+  - file: historique
+    title: Historique des réunions

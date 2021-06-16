@@ -2,6 +2,10 @@
 Historique des réunions du Pole
 ===============================
 
+2021-06-16
+----------
+* Première réunion du _Working Group 2_ sur la mise en place des standards OGC
+
 2021-04-02
 ----------
 * Première réunion du _Working Group 1_ sur cartographie planétaire disponible au sien de la communauté.
