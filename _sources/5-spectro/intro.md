@@ -1,5 +1,5 @@
 (group-spectro)=
-Groupe 4 : Données hyperspectrales
+Groupe 5 : Données hyperspectrales
 =======================================
 _Animateur : S. Douté_
 

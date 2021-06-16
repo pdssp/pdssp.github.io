@@ -1,5 +1,5 @@
 (group-archive)=
-Groupe 3 : DOI, NASA/ADS et archives
+Groupe 4 : DOI, NASA/ADS et archives
 =======================================
 _Animateur : J.C. Malapert_
 
