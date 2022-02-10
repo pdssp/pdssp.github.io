@@ -9,4 +9,4 @@ _Animateur : F. Schmidt_
 
 Présentations
 -------------
-* [Architecture & prototype](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/raw/main/docs/1-carto/reunions/PDSP-CR-1-0003-CNES.zip)
+* 2021/11/16: [Architecture & prototype](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/raw/main/docs/1-carto/reunions/PDSP-CR-1-0003-CNES.zip)
