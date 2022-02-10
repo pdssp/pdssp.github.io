@@ -5,3 +5,7 @@ _Animateur : S. Douté_
 
 * __But 1__ : État des lieux des études/outils des données hyperspectrales
 * __But 2__ : Définir les besoins d’un service de données hyperspectrales
+
+Présentations
+-------------
+* [analyse des données hyperspectrales] (https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/blob/main/docs/5-spectro/reunions/PDSP-CR-1-0005-CNES.zip)
