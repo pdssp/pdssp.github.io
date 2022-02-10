@@ -8,4 +8,4 @@ _Animateur : S. Douté_
 
 Présentations
 -------------
-* [analyse des données hyperspectrales] (https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/blob/main/docs/5-spectro/reunions/PDSP-CR-1-0005-CNES.zip)
+* [Analyse des données hyperspectrales](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/raw/main/docs/5-spectro/reunions/PDSP-CR-1-0005-CNES.zip)
