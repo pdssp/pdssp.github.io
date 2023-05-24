@@ -8,5 +8,6 @@ _Animateur : S. Erard_
 
 Présentations
 -------------
+* [CR](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/raw/main/docs/3-vo/reunion_1/CR_pdssp.pdf)
 * [VESPA](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/raw/main/docs/3-vo/reunion_1/VESPA_PoleSurfaces_mai2023.pdf)
 * [SSHADE](https://github.com/pole-surfaces-planetaires/pole-surfaces-planetaires.github.io/raw/main/docs/3-vo/reunion_1/SSHADE-Surfaces-Planetaires_17Mai2023.pdf)
