@@ -8,7 +8,7 @@ Liste des membres de Pole Surfaces Planétaires
 | François Andrieu          | GEOPS           |
 | Chloé Azria               | IPSL            |
 | Bruno Bézard              | LESIA / INSU    |
-| Léa Bourhis               |                 |
+| François Andrieu          | GEOPS           |
 | Susan Conway              | LPG Nantes      |
 | Daniel Cordier            | GSMA            |
 | François Costard          | GEOPS           |
