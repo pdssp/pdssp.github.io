@@ -12,4 +12,7 @@ Actuellement le Pole se divise en 4 groupes réunis sous les thématiques suivan
 - [Groupe 4](group-archive) : DOI, NASA/ADS et archives
 - [Groupe 5](group-spectro) : Données hyperspectrales
 
-Un historique des précédente réunion est disponible [ici](historique-reunions).
+Un historique des précédentes réunions est disponible [ici](historique-reunions).
+
+Prochaines réunion : 
+- Mardi  28 mai - 9h30 - Point clé de fin de phase A du pôle . L'objectif principal est de permettre de continuer les activités du pôle.
