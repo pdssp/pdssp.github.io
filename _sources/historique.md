@@ -2,6 +2,24 @@
 Historique des réunions du Pole
 ===============================
 
+2024-04-29
+----------
+* compte rendu [ici](https://github.com/pdssp/pdssp.github.io/blob/main/docs/5-spectro/reunions/2024_04_29_PDSSP_notes.docx)
+
+
+2023-05-17
+----------
+* compte rendu [ici](https://github.com/pdssp/pdssp.github.io/blob/main/docs/5-spectro/reunions/2023_05_17_PDSSP.docx)
+
+
+2022-02-15
+----------
+* Présentation par Even Rouault des liens WMTS <=> HIPS
+WMTS vers HIPS : fonctionnel, < 1s sur la requète précalculée
+HIPS vers WMTS : fonctionnel, < 1s sur la requète précalculée
+* Problème ouvert : CRS dans mapproxy
+
+
 2022-02-03
 ----------
 * Réunion du _Working Group 1_.
